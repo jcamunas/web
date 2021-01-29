@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Camunas lab</title>
+    <link>jcamunas.github.io/web/</link>
+    <description>Recent content on Camunas lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="jcamunas.github.io/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications</title>
+      <link>jcamunas.github.io/web/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>jcamunas.github.io/web/publications/</guid>
+      <description>2020   Camunas-Soler J*, Dai X*, Yan C, Kim SK, Quake SR, MacDonald, P. Patch-seq links single-cell transcriptomes to human islet dysfunction in diabetes. (2020) Cell Metabolism 31:1017-1031.
+ Research Highlight: From the Transcriptome to Electrophysiology: Searching for the Underlying Cause of Diabetes. 2020. Cell Metabolism 31(5): 888-889.
+   Kim SH, Whitener R, Peiris H, Gu X, Chang C, Lam J, Camunas-Soler J, et al. Molecular and genetic regulation of porcine pancreatic islet cell development.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>jcamunas.github.io/web/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>jcamunas.github.io/web/research/</guid>
+      <description>Illustration from Victor Hugo et son temps (1881)   Experience (French: Experience) Mirvie Inc.</description>
+    </item>
+    
+  </channel>
+</rss>

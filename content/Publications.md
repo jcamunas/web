@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 description: "List of publications by year."
-featured_image: "images/talk_slide.png"
+featured_image: "/images/talk_slide.png"
 type: page
 menu: main
 ---
